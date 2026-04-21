@@ -2,21 +2,22 @@
 
 ![](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B;From+Finance+to+AI;Welcome+to+my+GitHub&center=true&width=500&height=50&font=Fira+Code&size=24&color=8ab4f8)
 
-### About
+</div>
 
-🎓 **BA in Finance**, LNU (2025)　·　🎓 **MSc in Artificial Intelligence**, NTU (2026 – )
+<h3 align="center">About</h3>
 
-💼 Ex Quantitative Strategist at a buy-side firm
+- 🎓 **BA in Finance**, LNU (2025)
+- 🎓 **MSc in Artificial Intelligence**, NTU (2026 – )
+- 💼 Ex Quantitative Strategist at a buy-side firm
+- 🛠️ Mostly **Python** & **TypeScript**
 
-🛠️ Mostly **Python** & **TypeScript**
+<h3 align="center">🔭 Currently</h3>
 
-### 🔭 Currently
+- Diving deep into ML fundamentals & modern deep learning
+- Building [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) — AI assistant for Obsidian
+- Exploring LLM agents & retrieval
 
-Diving deep into ML fundamentals & modern deep learning
-
-Building [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) — AI assistant for Obsidian
-
-Exploring LLM agents & retrieval
+<div align="center">
 
 ### 🧰 Tech Stack
 
