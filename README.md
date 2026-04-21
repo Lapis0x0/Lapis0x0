@@ -25,11 +25,10 @@
 
 ### 📊 Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Lapis0x0&theme=tokyonight&hide_border=true" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lapis0x0&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight)
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight&hide_border=true" />
 
 ### 📫 Reach Me
 
