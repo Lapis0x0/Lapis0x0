@@ -8,7 +8,7 @@
 
 - 🎓 **BA in Finance**, LNU (2025)
 - 🎓 **MSc in Artificial Intelligence**, NTU (2026 – )
-- 💼 Ex Strategy Researcher at a buy-side firm
+- 💼 Ex Quantitative Strategist at a buy-side firm
 - 🛠️ Mostly **Python** & **TypeScript**
 
 ### 🔭 Currently
