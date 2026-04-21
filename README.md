@@ -13,7 +13,7 @@
 
 ### 🔭 Currently
 
-- Prepping for NTU AI, brushing up ML fundamentals
+- Diving deep into ML fundamentals & modern deep learning
 - Building [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) — AI assistant for Obsidian
 - Exploring LLM agents & retrieval
 
