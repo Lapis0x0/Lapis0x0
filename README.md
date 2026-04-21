@@ -2,20 +2,21 @@
 
 ![](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B;From+Finance+to+AI;Welcome+to+my+GitHub&center=true&width=500&height=50&font=Fira+Code&size=24&color=8ab4f8)
 
-</div>
-
 ### About
 
-- 🎓 **BA in Finance**, LNU (2025)
-- 🎓 **MSc in Artificial Intelligence**, NTU (2026 – )
-- 💼 Ex Quantitative Strategist at a buy-side firm
-- 🛠️ Mostly **Python** & **TypeScript**
+🎓 **BA in Finance**, LNU (2025)　·　🎓 **MSc in Artificial Intelligence**, NTU (2026 – )
+
+💼 Ex Quantitative Strategist at a buy-side firm
+
+🛠️ Mostly **Python** & **TypeScript**
 
 ### 🔭 Currently
 
-- Diving deep into ML fundamentals & modern deep learning
-- Building [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) — AI assistant for Obsidian
-- Exploring LLM agents & retrieval
+Diving deep into ML fundamentals & modern deep learning
+
+Building [obsidian-yolo](https://github.com/Lapis0x0/obsidian-yolo) — AI assistant for Obsidian
+
+Exploring LLM agents & retrieval
 
 ### 🧰 Tech Stack
 
@@ -24,8 +25,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-
-<div align="center">
 
 ### 📊 Stats
 
