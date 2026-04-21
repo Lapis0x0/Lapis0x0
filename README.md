@@ -25,10 +25,21 @@
 
 ### 📊 Stats
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Lapis0x0&theme=tokyonight&hide_border=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight&hide_border=true" />
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight&hide_border=true&card_width=450&hide_rank=true" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapis0x0&theme=tokyonight&hide_border=true&card_width=450" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight&hide_border=true&card_width=900&langs_count=8" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 Reach Me
 
