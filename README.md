@@ -1,9 +1,3 @@
-<div align="center">
-
-![](https://readme-typing-svg.demolab.com/?lines=Hi+there+%F0%9F%91%8B;From+Finance+to+AI;Welcome+to+my+GitHub&center=true&width=500&height=50&font=Fira+Code&size=24&color=8ab4f8)
-
-</div>
-
 ### About
 
 - 🎓 **BA in Finance**, LNU (2025)
