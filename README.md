@@ -26,7 +26,7 @@
 <table>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight&hide_border=true&card_width=900" />
+      <img src="https://github-readme-stats-gamma-six-34.vercel.app/api?username=Lapis0x0&show_icons=true&theme=tokyonight&hide_border=true&card_width=900" />
     </td>
   </tr>
   <tr>
@@ -34,7 +34,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lapis0x0&theme=tokyonight&hide_border=true&card_width=450" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight&hide_border=true&card_width=450&langs_count=6" />
+      <img src="https://github-readme-stats-gamma-six-34.vercel.app/api/top-langs/?username=Lapis0x0&layout=compact&theme=tokyonight&hide_border=true&card_width=450&langs_count=6" />
     </td>
   </tr>
 </table>
